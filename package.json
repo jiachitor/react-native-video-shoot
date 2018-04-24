@@ -1,0 +1,30 @@
+{
+  "name": "react-native-video-recorder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuochau/react-native-video-recorder.git"
+  },
+  "author": "hauvo",
+  "keywords": [
+    "react-native",
+    "react-native-camera",
+    "react-native-components",
+    "react-native-video-recorder"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "moment": "^2.17.1",
+    "prop-types": "^15.6.0",
+    "react-native": "^0.55.2",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-compress": "^1.0.2",
+    "react-native-spinkit": "^1.0.2",
+    "react-native-vector-icons": "^4.0.0"
+  }
+}
