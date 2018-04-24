@@ -1,4 +1,4 @@
-react-native-beautiful-video-recorder
+react-native-video-shoot
 ===
 
 The video recorder component that extends from `react-native-camera`. It works for both iOS & Android.
